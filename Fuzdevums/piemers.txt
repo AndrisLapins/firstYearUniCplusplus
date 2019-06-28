@@ -1,0 +1,42 @@
+#include "iostream"
+#include "lvfriendly.h"
+
+using namespace std;
+
+()
+(())
+((())))
+
+int main ()
+{
+    int ok;
+    char sv[81];
+    char s;
+    int reizes;
+
+    do {
+    cout << "Ievadiet simbolu virkni, kuras garums ir mazaks par 81: "<< endl;
+    cin.getline(sv, 81);
+    cout << "Ievadiet simbolu, lai zinatu, cik biezi tas paradas simbolu virkne: ";
+    cin.get(s);
+    reizes = 0;
+    for (int i = 0; i < 81; i++)
+    {
+        if (sv[i] == s)
+        {
+            reizes++;
+        }
+    }
+
+    cout << "Reizes: ";
+    cout << reizes << endl;
+
+
+
+
+    cout << "1 vai 0: ";
+    cin >> ok;
+    cin.ignore();
+
+    } while (ok == 1);
+}
