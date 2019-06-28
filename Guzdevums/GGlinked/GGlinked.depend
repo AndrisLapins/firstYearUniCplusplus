@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1558199437 source:c:\users\lapin\onedrive\dators\programmatûra\guzdevums\gglinked\gglink.cpp
+	<iostream>
+
+1558199509 source:c:\users\lapin\onedrive\dators\programmatûra\guzdevums\gglinked\maingglink.cpp
+	<iostream>
+	"lvtocon.h"
+	"gglink.cpp"
+
+1551005090 c:\users\lapin\onedrive\dators\programmatûra\guzdevums\gglinked\lvtocon.h
+	<cstdio>
+	<iostream>
+	<cstring>
+
+1558199544 c:\users\lapin\onedrive\dators\programmatûra\guzdevums\gglinked\gglink.cpp
+	<iostream>
+

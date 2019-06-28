@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1323253644 source:e:\pip_2019\pip_labd\pipu_05\piplu0501\lvtocon.cpp
+	"lvtocon.h"
+
+1353478050 e:\pip_2019\pip_labd\pipu_05\piplu0501\lvtocon.h
+	<cstdio>
+	<iostream>
+	<cstring>
+

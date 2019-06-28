@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1551005090 source:c:\users\lapin\onedrive\dators\programmatûra\guzdevums\edvards2\lvtocon.cpp
+	"lvtocon.h"
+
+1551005090 c:\users\lapin\onedrive\dators\programmatûra\guzdevums\edvards2\lvtocon.h
+	<cstdio>
+	<iostream>
+	<cstring>
+
+1559046374 source:c:\users\lapin\onedrive\dators\programmatûra\guzdevums\edvards\exception.cpp
+	<iostream>
+	"exception.h"
+
+1558479102 c:\users\lapin\onedrive\dators\programmatûra\guzdevums\edvards\exception.h
+
+1559051005 source:c:\users\lapin\onedrive\dators\programmatûra\guzdevums\edvards2\guzd.cpp
+	<iostream>
+	"lvtocon.h"
+	"../edvards/exception.h"
+

@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1551005090 source:c:\users\lapin\onedrive\dators\programmatûra\guzdevums\gguzdevums\lvtocon.cpp
+	"lvtocon.h"
+
+1551005090 c:\users\lapin\onedrive\dators\programmatûra\guzdevums\gguzdevums\lvtocon.h
+	<cstdio>
+	<iostream>
+	<cstring>
+
+1558196770 source:c:\users\lapin\onedrive\dators\programmatûra\guzdevums\gguzdevums\stl.cpp
+	"galvfjaheader.h"
+
+1558197016 c:\users\lapin\onedrive\dators\programmatûra\guzdevums\gguzdevums\galvfjaheader.h
+	<forward_list>
+	<iostream>
+
+1558196987 source:c:\users\lapin\onedrive\dators\programmatûra\guzdevums\gguzdevums\galvfja.cpp
+	<iostream>
+	<forward_list>
+	"galvfjaheader.h"
+
