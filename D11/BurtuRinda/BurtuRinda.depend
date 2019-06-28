@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1544090621 source:c:\users\lapin\onedrive\dators\c++\d11\burturinda\main.cpp
+	<iostream>
+	"BurtuRinda.h"
+
+1542878314 c:\users\lapin\onedrive\dators\c++\d11\burturinda\lvfriendly.h
+	<cstdio>
+	<cstring>
+	<iostream>
+
+1544089761 c:\users\lapin\onedrive\dators\c++\d11\burturinda\burturinda.h
+
+1544090678 source:c:\users\lapin\onedrive\dators\c++\d11\burturinda\burturinda.cpp
+	<iostream>
+	"BurtuRinda.h"
+
+1543941080 c:\users\lapin\onedrive\dators\c++\d11\burturinda\lvtocon.h
+
